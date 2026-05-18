@@ -1333,6 +1333,25 @@ Coding
 
 </details>
 
+## [eoc (Everything OpenAI Codex)](https://github.com/mturac/everything-openai-codex)
+Cross-harness workflow system for AI coding agents with 230+ skills, 60 agents, quality gates, and session memory
+
+<details>
+
+### Category
+Coding, Workflow Automation
+
+### Description
+- Cross-harness workflow system that transforms raw AI agent harnesses into repeatable engineering environments
+- 230+ skills, 60 agents, 110 rules, 28 hook matchers, 29 install modules
+- Works across OpenAI Codex, Cursor, Gemini CLI, Copilot, OpenCode, Zed, Trae
+- Quality gates, session memory, security scanning, hook system
+
+### Links
+- [GitHub](https://github.com/mturac/everything-openai-codex)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
