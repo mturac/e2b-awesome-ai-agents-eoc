@@ -1333,6 +1333,25 @@ Coding
 
 </details>
 
+## [Everything OpenAI Codex](https://github.com/mturac/everything-openai-codex)
+Open-source workflow system for OpenAI Codex
+
+<details>
+
+![Image](https://raw.githubusercontent.com/mturac/everything-openai-codex/main/assets/hero.png)
+
+### Category
+Coding, Build your own, Tools
+
+### Description
+- Everything OpenAI Codex bundles agents, skills, commands, hooks, memory patterns, install profiles, and validation checks for repeatable OpenAI Codex coding sessions.
+- It is MIT licensed and can be installed as a Codex plugin or through a minimal local project profile.
+
+### Links
+- [GitHub](https://github.com/mturac/everything-openai-codex)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
