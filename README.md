@@ -4320,6 +4320,28 @@ Productivity
 </details>
 
 
+## [hermes-supercode-skills](https://github.com/mturac/hermes-supercode-skills)
+13 production-grade Claude Code skill modules
+
+<details>
+
+### Category
+Developer tools, code generation, infrastructure, security
+
+### Description
+- 13 production-grade Claude Code skills covering database optimization, auth, observability, deployment, debugging, security, APIs, pipelines, scraping, MCP orchestration, predictions, prompt engineering, and infra automation
+- Each skill follows Recon→Plan→Execute→Verify workflow with structured JSON output and tiered safety rails (🔴/🟡/🟢)
+- Skills: db-whisperer · auth-architect · obs-guardian · deploy-ninja · quantum-debugger · security-sentinel · api-sculptor · pipeline-architect · ghost-scraper · mcp-conductor · prediction-alpha · prompt-forge · infra-automation
+
+### Links
+- [GitHub](https://github.com/mturac/hermes-supercode-skills)
+- [npm](https://www.npmjs.com/package/hermes-skills)
+- [Codex version](https://github.com/mturac/hermes-supercode-skills-codex)
+- **Install:** `npx hermes-skills install`
+
+</details>
+
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
