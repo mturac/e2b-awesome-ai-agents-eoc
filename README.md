@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [No-Bullshit Agent Benchmark (NBAB)](https://github.com/mturac/no-bullshit-agent-benchmark)
+A ruthless, git-based AI coding agent benchmark.
+<details>
+
+### Category
+Evaluation, Coding, Benchmark
+
+### Description
+- A ruthless, git-based AI coding agent benchmark.
+- Penalizes destructive behavior alongside measuring task completion.
+- Tracks penalties for deleting tests to fake CI, weakening assertions, or breaking adjacent files.
+- Provides a comprehensive `pnpm verify` suite to validate the agent's work cleanly.
+
+### Links
+- [GitHub](https://github.com/mturac/no-bullshit-agent-benchmark)
+- [Author's X](https://twitter.com/mehmetturac)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
